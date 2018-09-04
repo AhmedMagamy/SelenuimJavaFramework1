@@ -1,0 +1,5 @@
+[TRACE] 2018-08-11 18:21:49.413 [main] Lofg4j_demo - This is trace message 
+[INFO ] 2018-08-11 18:21:49.416 [main] Lofg4j_demo - this is info message 
+[ERROR] 2018-08-11 18:21:49.416 [main] Lofg4j_demo - this is error message
+[WARN ] 2018-08-11 18:21:49.416 [main] Lofg4j_demo - this is warn message
+[FATAL] 2018-08-11 18:21:49.416 [main] Lofg4j_demo - this is fatal message
